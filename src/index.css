@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.isChecked {
+    color: white;
+    border: 1px solid purple;
+}
